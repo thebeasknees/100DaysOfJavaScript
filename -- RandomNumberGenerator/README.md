@@ -1,0 +1,3 @@
+Day 2 project of 100 days of Javascript...
+
+Random Number Generator that will produce a number upon button click
