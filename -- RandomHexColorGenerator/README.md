@@ -1,0 +1,3 @@
+Day 3 project of 100 days of Javascript...
+
+Random Hex Color Generator that will produce a different color background upon button click
