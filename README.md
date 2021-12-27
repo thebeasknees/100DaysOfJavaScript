@@ -4,7 +4,7 @@ Attempting to knock out a project a day for the next 100 days. See the respectiv
 
 1. Counter App
 2. Random Number Generator App
-
+3. Random Hex Color Generator App
 
 
 
