@@ -1,0 +1,3 @@
+Day 1 project of 100 days of Javascript...
+
+Basic Counter that just lets you add or subtract a number or even reset by clicking on the button. Very basic first project.
